@@ -1,0 +1,45 @@
+
+
+nav{
+   
+    margin-top:-35px ;
+    list-style: none;
+    
+}
+li,a{
+    margin-right: 50px;
+  
+}
+div{
+    
+    padding: 16% ;
+   
+    
+}
+ul{
+    display: flex;
+    margin-left: 70%;
+}
+body{
+    background-image: url(90.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+font{
+    margin-right: 10px;
+}
+#q1{
+    border-radius: 5px;
+    color: black;
+    opacity: 0.6;
+    background-color: red;
+  }
+  #q1:hover{
+    color: black;
+    background-color:greenyellow;
+  }
